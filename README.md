@@ -1,4 +1,4 @@
-Certainly! Below is a README file tailored for a Twitter Airline Sentiment Analysis project that you can use for your GitHub repository.
+
 
 ```markdown
 # Twitter Airline Sentiment Analysis
